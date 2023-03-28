@@ -2,7 +2,6 @@ import React from 'react';
 import { withStyles } from '@material-ui/core/styles';
 import Card from './Card.jsx';
 import model from './model.js';
-import Pages from './Pages.jsx';
 
 const styles = theme => ({
   root: {
